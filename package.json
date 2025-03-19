@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "better-sqlite3": "^11.9.0"
-  },
-  "scripts": {
-    "test": "echo \"my test\" ",
-    "gaaa": "echo \"Step 1:\" && git status && echo \"Step 2:\" && git add . && echo \"Step 3:\"&& git status"
-  }
-}
